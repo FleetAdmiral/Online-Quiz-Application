@@ -1,2 +1,4 @@
 # Online-Quiz-Application
-Built in JSP
+## This project has been built in JSP.
+### To run the project locally:
+
